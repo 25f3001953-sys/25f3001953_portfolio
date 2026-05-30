@@ -2,9 +2,9 @@
 
 ## Student Details
 
-Name: YOUR_NAME
-Roll Number: YOUR_ROLLNUMBER
-Email: YOUR_IITM_EMAIL
+Name: Cheryl
+Roll Number: 25f3001953
+Email: 25f3001953@ds.study.iitm.ac.in
 
 ---
 
